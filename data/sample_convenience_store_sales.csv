@@ -1,0 +1,991 @@
+date,store,product_category,sales_units,avg_selling_price,promotion_flag
+2022-01-03,Downtown,Beverages,505,2.22,False
+2022-01-10,Downtown,Beverages,583,2.27,False
+2022-01-17,Downtown,Beverages,538,2.24,False
+2022-01-24,Downtown,Beverages,703,2.25,True
+2022-01-31,Downtown,Beverages,712,2.27,True
+2022-02-07,Downtown,Beverages,580,2.26,False
+2022-02-14,Downtown,Beverages,564,2.29,False
+2022-02-21,Downtown,Beverages,601,2.2,False
+2022-02-28,Downtown,Beverages,604,2.2,False
+2022-03-07,Downtown,Beverages,820,2.26,True
+2022-03-14,Downtown,Beverages,645,2.25,False
+2022-03-21,Downtown,Beverages,611,2.26,False
+2022-03-28,Downtown,Beverages,635,2.3,False
+2022-04-04,Downtown,Beverages,644,2.19,False
+2022-04-11,Downtown,Beverages,603,2.19,False
+2022-04-18,Downtown,Beverages,585,2.22,False
+2022-04-25,Downtown,Beverages,612,2.23,False
+2022-05-02,Downtown,Beverages,602,2.31,False
+2022-05-09,Downtown,Beverages,636,2.21,False
+2022-05-16,Downtown,Beverages,589,2.23,False
+2022-05-23,Downtown,Beverages,633,2.26,False
+2022-05-30,Downtown,Beverages,648,2.29,False
+2022-06-06,Downtown,Beverages,562,2.23,False
+2022-06-13,Downtown,Beverages,570,2.31,False
+2022-06-20,Downtown,Beverages,569,2.27,False
+2022-06-27,Downtown,Beverages,611,2.24,False
+2022-07-04,Downtown,Beverages,535,2.26,False
+2022-07-11,Downtown,Beverages,548,2.3,False
+2022-07-18,Downtown,Beverages,499,2.32,False
+2022-07-25,Downtown,Beverages,470,2.19,False
+2022-08-01,Downtown,Beverages,617,2.29,True
+2022-08-08,Downtown,Beverages,433,2.23,False
+2022-08-15,Downtown,Beverages,450,2.31,False
+2022-08-22,Downtown,Beverages,398,2.28,False
+2022-08-29,Downtown,Beverages,419,2.22,False
+2022-09-05,Downtown,Beverages,379,2.24,False
+2022-09-12,Downtown,Beverages,423,2.3,False
+2022-09-19,Downtown,Beverages,388,2.21,False
+2022-09-26,Downtown,Beverages,406,2.22,False
+2022-10-03,Downtown,Beverages,389,2.2,False
+2022-10-10,Downtown,Beverages,386,2.29,False
+2022-10-17,Downtown,Beverages,358,2.23,False
+2022-10-24,Downtown,Beverages,530,2.3,True
+2022-10-31,Downtown,Beverages,394,2.19,False
+2022-11-07,Downtown,Beverages,450,2.19,False
+2022-11-14,Downtown,Beverages,405,2.29,False
+2022-11-21,Downtown,Beverages,426,2.25,False
+2022-11-28,Downtown,Beverages,453,2.3,False
+2022-12-05,Downtown,Beverages,468,2.26,False
+2022-12-12,Downtown,Beverages,486,2.22,False
+2022-12-19,Downtown,Beverages,544,2.24,False
+2022-12-26,Downtown,Beverages,517,2.21,False
+2023-01-02,Downtown,Beverages,577,2.21,False
+2023-01-09,Downtown,Beverages,545,2.27,False
+2023-01-16,Downtown,Beverages,639,2.3,False
+2023-01-23,Downtown,Beverages,734,2.27,True
+2023-01-30,Downtown,Beverages,587,2.31,False
+2023-02-06,Downtown,Beverages,629,2.29,False
+2023-02-13,Downtown,Beverages,607,2.2,False
+2023-02-20,Downtown,Beverages,635,2.25,False
+2023-02-27,Downtown,Beverages,663,2.32,False
+2023-03-06,Downtown,Beverages,796,2.23,True
+2023-03-13,Downtown,Beverages,622,2.21,False
+2023-03-20,Downtown,Beverages,641,2.22,False
+2023-03-27,Downtown,Beverages,693,2.24,False
+2023-04-03,Downtown,Beverages,655,2.19,False
+2023-04-10,Downtown,Beverages,685,2.31,False
+2023-04-17,Downtown,Beverages,687,2.2,False
+2023-04-24,Downtown,Beverages,621,2.24,False
+2023-05-01,Downtown,Beverages,798,2.32,True
+2023-05-08,Downtown,Beverages,680,2.24,False
+2023-05-15,Downtown,Beverages,696,2.32,False
+2023-05-22,Downtown,Beverages,668,2.2,False
+2023-05-29,Downtown,Beverages,688,2.26,False
+2023-06-05,Downtown,Beverages,657,2.19,False
+2023-06-12,Downtown,Beverages,623,2.3,False
+2023-06-19,Downtown,Beverages,819,2.19,True
+2023-06-26,Downtown,Beverages,605,2.27,False
+2023-07-03,Downtown,Beverages,545,2.3,False
+2023-07-10,Downtown,Beverages,571,2.27,False
+2023-07-17,Downtown,Beverages,550,2.25,False
+2023-07-24,Downtown,Beverages,499,2.28,False
+2023-07-31,Downtown,Beverages,495,2.27,False
+2023-08-07,Downtown,Beverages,470,2.28,False
+2023-08-14,Downtown,Beverages,578,2.32,True
+2023-08-21,Downtown,Beverages,418,2.21,False
+2023-08-28,Downtown,Beverages,464,2.3,False
+2023-09-04,Downtown,Beverages,412,2.2,False
+2023-09-11,Downtown,Beverages,424,2.27,False
+2023-09-18,Downtown,Beverages,413,2.18,False
+2023-09-25,Downtown,Beverages,386,2.27,False
+2023-10-02,Downtown,Beverages,374,2.2,False
+2023-10-09,Downtown,Beverages,503,2.22,True
+2023-10-16,Downtown,Beverages,418,2.21,False
+2023-10-23,Downtown,Beverages,397,2.25,False
+2023-10-30,Downtown,Beverages,447,2.19,False
+2023-11-06,Downtown,Beverages,421,2.18,False
+2023-11-13,Downtown,Beverages,463,2.22,False
+2023-11-20,Downtown,Beverages,475,2.24,False
+2023-11-27,Downtown,Beverages,571,2.3,True
+2023-12-04,Downtown,Beverages,514,2.3,False
+2023-12-11,Downtown,Beverages,501,2.2,False
+2023-12-18,Downtown,Beverages,587,2.29,False
+2023-12-25,Downtown,Beverages,609,2.21,False
+2024-01-01,Downtown,Beverages,554,2.29,False
+2024-01-08,Downtown,Beverages,600,2.27,False
+2024-01-15,Downtown,Beverages,834,2.3,True
+2024-01-22,Downtown,Beverages,669,2.3,False
+2024-01-29,Downtown,Beverages,841,2.23,True
+2024-02-05,Downtown,Beverages,689,2.3,False
+2022-01-03,Downtown,Snacks,617,1.78,False
+2022-01-10,Downtown,Snacks,873,1.79,True
+2022-01-17,Downtown,Snacks,710,1.75,False
+2022-01-24,Downtown,Snacks,723,1.72,False
+2022-01-31,Downtown,Snacks,835,1.73,True
+2022-02-07,Downtown,Snacks,765,1.73,False
+2022-02-14,Downtown,Snacks,707,1.8,False
+2022-02-21,Downtown,Snacks,775,1.71,False
+2022-02-28,Downtown,Snacks,690,1.8,False
+2022-03-07,Downtown,Snacks,683,1.74,False
+2022-03-14,Downtown,Snacks,708,1.76,False
+2022-03-21,Downtown,Snacks,717,1.76,False
+2022-03-28,Downtown,Snacks,756,1.7,False
+2022-04-04,Downtown,Snacks,736,1.77,False
+2022-04-11,Downtown,Snacks,753,1.74,False
+2022-04-18,Downtown,Snacks,941,1.73,True
+2022-04-25,Downtown,Snacks,775,1.77,False
+2022-05-02,Downtown,Snacks,711,1.74,False
+2022-05-09,Downtown,Snacks,709,1.71,False
+2022-05-16,Downtown,Snacks,782,1.77,False
+2022-05-23,Downtown,Snacks,740,1.73,False
+2022-05-30,Downtown,Snacks,663,1.73,False
+2022-06-06,Downtown,Snacks,722,1.77,False
+2022-06-13,Downtown,Snacks,695,1.72,False
+2022-06-20,Downtown,Snacks,732,1.78,False
+2022-06-27,Downtown,Snacks,784,1.75,True
+2022-07-04,Downtown,Snacks,637,1.78,False
+2022-07-11,Downtown,Snacks,651,1.72,False
+2022-07-18,Downtown,Snacks,566,1.72,False
+2022-07-25,Downtown,Snacks,623,1.71,False
+2022-08-01,Downtown,Snacks,580,1.72,False
+2022-08-08,Downtown,Snacks,545,1.72,False
+2022-08-15,Downtown,Snacks,484,1.78,False
+2022-08-22,Downtown,Snacks,474,1.74,False
+2022-08-29,Downtown,Snacks,656,1.75,True
+2022-09-05,Downtown,Snacks,569,1.79,True
+2022-09-12,Downtown,Snacks,485,1.77,False
+2022-09-19,Downtown,Snacks,461,1.8,False
+2022-09-26,Downtown,Snacks,458,1.77,False
+2022-10-03,Downtown,Snacks,472,1.76,False
+2022-10-10,Downtown,Snacks,468,1.75,False
+2022-10-17,Downtown,Snacks,438,1.76,False
+2022-10-24,Downtown,Snacks,467,1.76,False
+2022-10-31,Downtown,Snacks,445,1.73,False
+2022-11-07,Downtown,Snacks,478,1.75,False
+2022-11-14,Downtown,Snacks,611,1.77,True
+2022-11-21,Downtown,Snacks,494,1.74,False
+2022-11-28,Downtown,Snacks,545,1.72,False
+2022-12-05,Downtown,Snacks,613,1.76,False
+2022-12-12,Downtown,Snacks,634,1.78,False
+2022-12-19,Downtown,Snacks,574,1.73,False
+2022-12-26,Downtown,Snacks,682,1.8,False
+2023-01-02,Downtown,Snacks,694,1.75,False
+2023-01-09,Downtown,Snacks,656,1.72,False
+2023-01-16,Downtown,Snacks,651,1.73,False
+2023-01-23,Downtown,Snacks,708,1.71,False
+2023-01-30,Downtown,Snacks,688,1.76,False
+2023-02-06,Downtown,Snacks,911,1.76,True
+2023-02-13,Downtown,Snacks,957,1.71,True
+2023-02-20,Downtown,Snacks,700,1.74,False
+2023-02-27,Downtown,Snacks,736,1.78,False
+2023-03-06,Downtown,Snacks,790,1.78,False
+2023-03-13,Downtown,Snacks,709,1.7,False
+2023-03-20,Downtown,Snacks,822,1.73,False
+2023-03-27,Downtown,Snacks,796,1.77,False
+2023-04-03,Downtown,Snacks,817,1.72,False
+2023-04-10,Downtown,Snacks,900,1.71,True
+2023-04-17,Downtown,Snacks,771,1.72,False
+2023-04-24,Downtown,Snacks,796,1.72,False
+2023-05-01,Downtown,Snacks,794,1.71,False
+2023-05-08,Downtown,Snacks,820,1.71,False
+2023-05-15,Downtown,Snacks,922,1.77,True
+2023-05-22,Downtown,Snacks,744,1.77,False
+2023-05-29,Downtown,Snacks,967,1.76,True
+2023-06-05,Downtown,Snacks,967,1.79,True
+2023-06-12,Downtown,Snacks,686,1.8,False
+2023-06-19,Downtown,Snacks,699,1.74,False
+2023-06-26,Downtown,Snacks,700,1.73,False
+2023-07-03,Downtown,Snacks,716,1.71,False
+2023-07-10,Downtown,Snacks,674,1.78,False
+2023-07-17,Downtown,Snacks,631,1.77,False
+2023-07-24,Downtown,Snacks,592,1.78,False
+2023-07-31,Downtown,Snacks,589,1.74,False
+2023-08-07,Downtown,Snacks,547,1.79,False
+2023-08-14,Downtown,Snacks,510,1.79,False
+2023-08-21,Downtown,Snacks,523,1.76,False
+2023-08-28,Downtown,Snacks,470,1.79,False
+2023-09-04,Downtown,Snacks,471,1.78,False
+2023-09-11,Downtown,Snacks,511,1.77,False
+2023-09-18,Downtown,Snacks,436,1.8,False
+2023-09-25,Downtown,Snacks,605,1.75,True
+2023-10-02,Downtown,Snacks,480,1.77,False
+2023-10-09,Downtown,Snacks,490,1.71,False
+2023-10-16,Downtown,Snacks,489,1.73,False
+2023-10-23,Downtown,Snacks,482,1.75,False
+2023-10-30,Downtown,Snacks,516,1.73,False
+2023-11-06,Downtown,Snacks,494,1.72,False
+2023-11-13,Downtown,Snacks,631,1.71,True
+2023-11-20,Downtown,Snacks,575,1.72,False
+2023-11-27,Downtown,Snacks,573,1.77,False
+2023-12-04,Downtown,Snacks,601,1.73,False
+2023-12-11,Downtown,Snacks,741,1.72,True
+2023-12-18,Downtown,Snacks,747,1.75,True
+2023-12-25,Downtown,Snacks,722,1.76,False
+2024-01-01,Downtown,Snacks,652,1.79,False
+2024-01-08,Downtown,Snacks,757,1.76,False
+2024-01-15,Downtown,Snacks,725,1.72,False
+2024-01-22,Downtown,Snacks,1001,1.75,True
+2024-01-29,Downtown,Snacks,749,1.71,False
+2024-02-05,Downtown,Snacks,716,1.71,False
+2022-01-03,Downtown,Prepared Foods,427,5.66,False
+2022-01-10,Downtown,Prepared Foods,592,5.54,True
+2022-01-17,Downtown,Prepared Foods,445,5.51,False
+2022-01-24,Downtown,Prepared Foods,471,5.62,False
+2022-01-31,Downtown,Prepared Foods,469,5.54,False
+2022-02-07,Downtown,Prepared Foods,509,5.65,False
+2022-02-14,Downtown,Prepared Foods,472,5.55,False
+2022-02-21,Downtown,Prepared Foods,590,5.36,True
+2022-02-28,Downtown,Prepared Foods,621,5.53,True
+2022-03-07,Downtown,Prepared Foods,480,5.57,False
+2022-03-14,Downtown,Prepared Foods,499,5.56,False
+2022-03-21,Downtown,Prepared Foods,526,5.54,False
+2022-03-28,Downtown,Prepared Foods,539,5.48,False
+2022-04-04,Downtown,Prepared Foods,516,5.63,False
+2022-04-11,Downtown,Prepared Foods,470,5.39,False
+2022-04-18,Downtown,Prepared Foods,525,5.52,False
+2022-04-25,Downtown,Prepared Foods,475,5.56,False
+2022-05-02,Downtown,Prepared Foods,541,5.5,False
+2022-05-09,Downtown,Prepared Foods,471,5.35,False
+2022-05-16,Downtown,Prepared Foods,489,5.42,False
+2022-05-23,Downtown,Prepared Foods,672,5.61,True
+2022-05-30,Downtown,Prepared Foods,532,5.66,False
+2022-06-06,Downtown,Prepared Foods,473,5.35,False
+2022-06-13,Downtown,Prepared Foods,481,5.55,False
+2022-06-20,Downtown,Prepared Foods,450,5.53,False
+2022-06-27,Downtown,Prepared Foods,462,5.37,False
+2022-07-04,Downtown,Prepared Foods,438,5.56,False
+2022-07-11,Downtown,Prepared Foods,424,5.56,False
+2022-07-18,Downtown,Prepared Foods,452,5.6,False
+2022-07-25,Downtown,Prepared Foods,403,5.44,False
+2022-08-01,Downtown,Prepared Foods,420,5.47,False
+2022-08-08,Downtown,Prepared Foods,405,5.55,False
+2022-08-15,Downtown,Prepared Foods,356,5.4,False
+2022-08-22,Downtown,Prepared Foods,363,5.54,False
+2022-08-29,Downtown,Prepared Foods,321,5.52,False
+2022-09-05,Downtown,Prepared Foods,323,5.57,False
+2022-09-12,Downtown,Prepared Foods,429,5.54,True
+2022-09-19,Downtown,Prepared Foods,296,5.52,False
+2022-09-26,Downtown,Prepared Foods,289,5.66,False
+2022-10-03,Downtown,Prepared Foods,307,5.37,False
+2022-10-10,Downtown,Prepared Foods,310,5.57,False
+2022-10-17,Downtown,Prepared Foods,303,5.61,False
+2022-10-24,Downtown,Prepared Foods,307,5.52,False
+2022-10-31,Downtown,Prepared Foods,351,5.5,False
+2022-11-07,Downtown,Prepared Foods,359,5.43,False
+2022-11-14,Downtown,Prepared Foods,347,5.64,False
+2022-11-21,Downtown,Prepared Foods,384,5.43,False
+2022-11-28,Downtown,Prepared Foods,386,5.66,False
+2022-12-05,Downtown,Prepared Foods,374,5.51,False
+2022-12-12,Downtown,Prepared Foods,416,5.51,False
+2022-12-19,Downtown,Prepared Foods,417,5.4,False
+2022-12-26,Downtown,Prepared Foods,450,5.41,False
+2023-01-02,Downtown,Prepared Foods,426,5.58,False
+2023-01-09,Downtown,Prepared Foods,496,5.46,False
+2023-01-16,Downtown,Prepared Foods,510,5.66,False
+2023-01-23,Downtown,Prepared Foods,459,5.5,False
+2023-01-30,Downtown,Prepared Foods,534,5.62,False
+2023-02-06,Downtown,Prepared Foods,513,5.49,False
+2023-02-13,Downtown,Prepared Foods,508,5.55,False
+2023-02-20,Downtown,Prepared Foods,646,5.65,True
+2023-02-27,Downtown,Prepared Foods,537,5.55,False
+2023-03-06,Downtown,Prepared Foods,552,5.62,False
+2023-03-13,Downtown,Prepared Foods,508,5.57,False
+2023-03-20,Downtown,Prepared Foods,555,5.35,False
+2023-03-27,Downtown,Prepared Foods,669,5.64,True
+2023-04-03,Downtown,Prepared Foods,545,5.48,False
+2023-04-10,Downtown,Prepared Foods,670,5.62,True
+2023-04-17,Downtown,Prepared Foods,542,5.63,False
+2023-04-24,Downtown,Prepared Foods,689,5.43,True
+2023-05-01,Downtown,Prepared Foods,496,5.51,False
+2023-05-08,Downtown,Prepared Foods,550,5.39,False
+2023-05-15,Downtown,Prepared Foods,694,5.54,True
+2023-05-22,Downtown,Prepared Foods,555,5.38,False
+2023-05-29,Downtown,Prepared Foods,496,5.42,False
+2023-06-05,Downtown,Prepared Foods,669,5.63,True
+2023-06-12,Downtown,Prepared Foods,475,5.48,False
+2023-06-19,Downtown,Prepared Foods,500,5.55,False
+2023-06-26,Downtown,Prepared Foods,462,5.61,False
+2023-07-03,Downtown,Prepared Foods,460,5.49,False
+2023-07-10,Downtown,Prepared Foods,459,5.52,False
+2023-07-17,Downtown,Prepared Foods,424,5.66,False
+2023-07-24,Downtown,Prepared Foods,408,5.52,False
+2023-07-31,Downtown,Prepared Foods,423,5.35,False
+2023-08-07,Downtown,Prepared Foods,391,5.63,False
+2023-08-14,Downtown,Prepared Foods,394,5.54,False
+2023-08-21,Downtown,Prepared Foods,370,5.54,False
+2023-08-28,Downtown,Prepared Foods,363,5.55,False
+2023-09-04,Downtown,Prepared Foods,347,5.63,False
+2023-09-11,Downtown,Prepared Foods,321,5.48,False
+2023-09-18,Downtown,Prepared Foods,338,5.36,False
+2023-09-25,Downtown,Prepared Foods,335,5.39,False
+2023-10-02,Downtown,Prepared Foods,404,5.66,True
+2023-10-09,Downtown,Prepared Foods,344,5.61,False
+2023-10-16,Downtown,Prepared Foods,344,5.49,False
+2023-10-23,Downtown,Prepared Foods,346,5.45,False
+2023-10-30,Downtown,Prepared Foods,459,5.38,True
+2023-11-06,Downtown,Prepared Foods,373,5.57,False
+2023-11-13,Downtown,Prepared Foods,393,5.6,False
+2023-11-20,Downtown,Prepared Foods,398,5.34,False
+2023-11-27,Downtown,Prepared Foods,393,5.56,False
+2023-12-04,Downtown,Prepared Foods,418,5.61,False
+2023-12-11,Downtown,Prepared Foods,402,5.41,False
+2023-12-18,Downtown,Prepared Foods,592,5.52,True
+2023-12-25,Downtown,Prepared Foods,442,5.36,False
+2024-01-01,Downtown,Prepared Foods,509,5.43,False
+2024-01-08,Downtown,Prepared Foods,463,5.65,False
+2024-01-15,Downtown,Prepared Foods,504,5.37,False
+2024-01-22,Downtown,Prepared Foods,485,5.48,False
+2024-01-29,Downtown,Prepared Foods,544,5.65,False
+2024-02-05,Downtown,Prepared Foods,551,5.39,False
+2022-01-03,Suburban,Beverages,423,2.25,False
+2022-01-10,Suburban,Beverages,498,2.19,False
+2022-01-17,Suburban,Beverages,472,2.31,False
+2022-01-24,Suburban,Beverages,456,2.28,False
+2022-01-31,Suburban,Beverages,533,2.23,False
+2022-02-07,Suburban,Beverages,477,2.2,False
+2022-02-14,Suburban,Beverages,503,2.27,False
+2022-02-21,Suburban,Beverages,518,2.19,False
+2022-02-28,Suburban,Beverages,492,2.2,False
+2022-03-07,Suburban,Beverages,478,2.29,False
+2022-03-14,Suburban,Beverages,491,2.3,False
+2022-03-21,Suburban,Beverages,486,2.3,False
+2022-03-28,Suburban,Beverages,681,2.2,True
+2022-04-04,Suburban,Beverages,619,2.21,True
+2022-04-11,Suburban,Beverages,477,2.18,False
+2022-04-18,Suburban,Beverages,495,2.23,False
+2022-04-25,Suburban,Beverages,600,2.28,True
+2022-05-02,Suburban,Beverages,538,2.25,False
+2022-05-09,Suburban,Beverages,518,2.2,False
+2022-05-16,Suburban,Beverages,552,2.19,False
+2022-05-23,Suburban,Beverages,542,2.25,False
+2022-05-30,Suburban,Beverages,546,2.19,False
+2022-06-06,Suburban,Beverages,494,2.28,False
+2022-06-13,Suburban,Beverages,527,2.19,False
+2022-06-20,Suburban,Beverages,617,2.19,True
+2022-06-27,Suburban,Beverages,484,2.26,False
+2022-07-04,Suburban,Beverages,497,2.25,False
+2022-07-11,Suburban,Beverages,454,2.2,False
+2022-07-18,Suburban,Beverages,456,2.27,False
+2022-07-25,Suburban,Beverages,431,2.21,False
+2022-08-01,Suburban,Beverages,383,2.23,False
+2022-08-08,Suburban,Beverages,380,2.2,False
+2022-08-15,Suburban,Beverages,380,2.23,False
+2022-08-22,Suburban,Beverages,476,2.19,True
+2022-08-29,Suburban,Beverages,322,2.2,False
+2022-09-05,Suburban,Beverages,351,2.26,False
+2022-09-12,Suburban,Beverages,330,2.23,False
+2022-09-19,Suburban,Beverages,391,2.27,True
+2022-09-26,Suburban,Beverages,336,2.28,False
+2022-10-03,Suburban,Beverages,321,2.23,False
+2022-10-10,Suburban,Beverages,303,2.27,False
+2022-10-17,Suburban,Beverages,301,2.3,False
+2022-10-24,Suburban,Beverages,342,2.26,False
+2022-10-31,Suburban,Beverages,355,2.31,False
+2022-11-07,Suburban,Beverages,354,2.27,False
+2022-11-14,Suburban,Beverages,481,2.29,True
+2022-11-21,Suburban,Beverages,355,2.28,False
+2022-11-28,Suburban,Beverages,380,2.18,False
+2022-12-05,Suburban,Beverages,410,2.24,False
+2022-12-12,Suburban,Beverages,539,2.19,True
+2022-12-19,Suburban,Beverages,419,2.24,False
+2022-12-26,Suburban,Beverages,446,2.28,False
+2023-01-02,Suburban,Beverages,475,2.19,False
+2023-01-09,Suburban,Beverages,572,2.27,True
+2023-01-16,Suburban,Beverages,478,2.27,False
+2023-01-23,Suburban,Beverages,502,2.22,False
+2023-01-30,Suburban,Beverages,484,2.24,False
+2023-02-06,Suburban,Beverages,537,2.25,False
+2023-02-13,Suburban,Beverages,489,2.24,False
+2023-02-20,Suburban,Beverages,489,2.22,False
+2023-02-27,Suburban,Beverages,503,2.22,False
+2023-03-06,Suburban,Beverages,493,2.28,False
+2023-03-13,Suburban,Beverages,657,2.28,True
+2023-03-20,Suburban,Beverages,565,2.29,False
+2023-03-27,Suburban,Beverages,710,2.19,True
+2023-04-03,Suburban,Beverages,717,2.3,True
+2023-04-10,Suburban,Beverages,544,2.28,False
+2023-04-17,Suburban,Beverages,505,2.19,False
+2023-04-24,Suburban,Beverages,564,2.27,False
+2023-05-01,Suburban,Beverages,575,2.19,False
+2023-05-08,Suburban,Beverages,516,2.26,False
+2023-05-15,Suburban,Beverages,527,2.22,False
+2023-05-22,Suburban,Beverages,519,2.21,False
+2023-05-29,Suburban,Beverages,496,2.25,False
+2023-06-05,Suburban,Beverages,510,2.28,False
+2023-06-12,Suburban,Beverages,541,2.21,False
+2023-06-19,Suburban,Beverages,600,2.26,True
+2023-06-26,Suburban,Beverages,505,2.21,False
+2023-07-03,Suburban,Beverages,479,2.28,False
+2023-07-10,Suburban,Beverages,461,2.31,False
+2023-07-17,Suburban,Beverages,459,2.27,False
+2023-07-24,Suburban,Beverages,442,2.2,False
+2023-07-31,Suburban,Beverages,516,2.22,True
+2023-08-07,Suburban,Beverages,372,2.25,False
+2023-08-14,Suburban,Beverages,382,2.19,False
+2023-08-21,Suburban,Beverages,346,2.3,False
+2023-08-28,Suburban,Beverages,365,2.25,False
+2023-09-04,Suburban,Beverages,351,2.29,False
+2023-09-11,Suburban,Beverages,337,2.29,False
+2023-09-18,Suburban,Beverages,324,2.25,False
+2023-09-25,Suburban,Beverages,383,2.2,True
+2023-10-02,Suburban,Beverages,320,2.28,False
+2023-10-09,Suburban,Beverages,313,2.22,False
+2023-10-16,Suburban,Beverages,331,2.25,False
+2023-10-23,Suburban,Beverages,418,2.22,True
+2023-10-30,Suburban,Beverages,341,2.26,False
+2023-11-06,Suburban,Beverages,370,2.19,False
+2023-11-13,Suburban,Beverages,481,2.22,True
+2023-11-20,Suburban,Beverages,399,2.3,False
+2023-11-27,Suburban,Beverages,394,2.26,False
+2023-12-04,Suburban,Beverages,515,2.31,True
+2023-12-11,Suburban,Beverages,432,2.26,False
+2023-12-18,Suburban,Beverages,443,2.23,False
+2023-12-25,Suburban,Beverages,497,2.27,False
+2024-01-01,Suburban,Beverages,508,2.28,False
+2024-01-08,Suburban,Beverages,515,2.24,False
+2024-01-15,Suburban,Beverages,505,2.21,False
+2024-01-22,Suburban,Beverages,565,2.25,False
+2024-01-29,Suburban,Beverages,505,2.19,False
+2024-02-05,Suburban,Beverages,509,2.29,False
+2022-01-03,Suburban,Snacks,580,1.7,False
+2022-01-10,Suburban,Snacks,586,1.71,False
+2022-01-17,Suburban,Snacks,545,1.78,False
+2022-01-24,Suburban,Snacks,618,1.71,False
+2022-01-31,Suburban,Snacks,590,1.77,False
+2022-02-07,Suburban,Snacks,601,1.73,False
+2022-02-14,Suburban,Snacks,608,1.75,False
+2022-02-21,Suburban,Snacks,647,1.75,False
+2022-02-28,Suburban,Snacks,607,1.8,False
+2022-03-07,Suburban,Snacks,618,1.73,False
+2022-03-14,Suburban,Snacks,625,1.8,False
+2022-03-21,Suburban,Snacks,653,1.71,False
+2022-03-28,Suburban,Snacks,638,1.79,False
+2022-04-04,Suburban,Snacks,584,1.79,False
+2022-04-11,Suburban,Snacks,603,1.78,False
+2022-04-18,Suburban,Snacks,666,1.71,False
+2022-04-25,Suburban,Snacks,670,1.72,False
+2022-05-02,Suburban,Snacks,610,1.7,False
+2022-05-09,Suburban,Snacks,781,1.72,True
+2022-05-16,Suburban,Snacks,610,1.7,False
+2022-05-23,Suburban,Snacks,653,1.77,False
+2022-05-30,Suburban,Snacks,579,1.73,False
+2022-06-06,Suburban,Snacks,626,1.71,False
+2022-06-13,Suburban,Snacks,593,1.7,False
+2022-06-20,Suburban,Snacks,705,1.79,True
+2022-06-27,Suburban,Snacks,594,1.75,False
+2022-07-04,Suburban,Snacks,673,1.73,True
+2022-07-11,Suburban,Snacks,667,1.78,True
+2022-07-18,Suburban,Snacks,489,1.79,False
+2022-07-25,Suburban,Snacks,464,1.75,False
+2022-08-01,Suburban,Snacks,456,1.74,False
+2022-08-08,Suburban,Snacks,446,1.74,False
+2022-08-15,Suburban,Snacks,418,1.8,False
+2022-08-22,Suburban,Snacks,541,1.75,True
+2022-08-29,Suburban,Snacks,420,1.74,False
+2022-09-05,Suburban,Snacks,413,1.8,False
+2022-09-12,Suburban,Snacks,364,1.78,False
+2022-09-19,Suburban,Snacks,402,1.76,False
+2022-09-26,Suburban,Snacks,398,1.73,False
+2022-10-03,Suburban,Snacks,481,1.78,True
+2022-10-10,Suburban,Snacks,501,1.75,True
+2022-10-17,Suburban,Snacks,397,1.78,False
+2022-10-24,Suburban,Snacks,517,1.75,True
+2022-10-31,Suburban,Snacks,377,1.72,False
+2022-11-07,Suburban,Snacks,561,1.75,True
+2022-11-14,Suburban,Snacks,438,1.72,False
+2022-11-21,Suburban,Snacks,430,1.73,False
+2022-11-28,Suburban,Snacks,499,1.73,False
+2022-12-05,Suburban,Snacks,601,1.79,True
+2022-12-12,Suburban,Snacks,543,1.74,False
+2022-12-19,Suburban,Snacks,531,1.75,False
+2022-12-26,Suburban,Snacks,552,1.78,False
+2023-01-02,Suburban,Snacks,530,1.76,False
+2023-01-09,Suburban,Snacks,590,1.73,False
+2023-01-16,Suburban,Snacks,770,1.73,True
+2023-01-23,Suburban,Snacks,606,1.77,False
+2023-01-30,Suburban,Snacks,578,1.79,False
+2023-02-06,Suburban,Snacks,682,1.73,False
+2023-02-13,Suburban,Snacks,684,1.71,False
+2023-02-20,Suburban,Snacks,628,1.78,False
+2023-02-27,Suburban,Snacks,692,1.71,False
+2023-03-06,Suburban,Snacks,676,1.7,False
+2023-03-13,Suburban,Snacks,846,1.74,True
+2023-03-20,Suburban,Snacks,656,1.76,False
+2023-03-27,Suburban,Snacks,696,1.74,False
+2023-04-03,Suburban,Snacks,657,1.75,False
+2023-04-10,Suburban,Snacks,666,1.72,False
+2023-04-17,Suburban,Snacks,844,1.75,True
+2023-04-24,Suburban,Snacks,658,1.72,False
+2023-05-01,Suburban,Snacks,646,1.8,False
+2023-05-08,Suburban,Snacks,694,1.75,False
+2023-05-15,Suburban,Snacks,856,1.74,True
+2023-05-22,Suburban,Snacks,639,1.71,False
+2023-05-29,Suburban,Snacks,675,1.73,False
+2023-06-05,Suburban,Snacks,588,1.75,False
+2023-06-12,Suburban,Snacks,658,1.77,False
+2023-06-19,Suburban,Snacks,624,1.78,False
+2023-06-26,Suburban,Snacks,560,1.72,False
+2023-07-03,Suburban,Snacks,759,1.7,True
+2023-07-10,Suburban,Snacks,550,1.78,False
+2023-07-17,Suburban,Snacks,553,1.71,False
+2023-07-24,Suburban,Snacks,565,1.77,False
+2023-07-31,Suburban,Snacks,525,1.78,False
+2023-08-07,Suburban,Snacks,651,1.76,True
+2023-08-14,Suburban,Snacks,479,1.73,False
+2023-08-21,Suburban,Snacks,469,1.76,False
+2023-08-28,Suburban,Snacks,466,1.74,False
+2023-09-04,Suburban,Snacks,391,1.71,False
+2023-09-11,Suburban,Snacks,486,1.73,True
+2023-09-18,Suburban,Snacks,393,1.8,False
+2023-09-25,Suburban,Snacks,421,1.72,False
+2023-10-02,Suburban,Snacks,401,1.71,False
+2023-10-09,Suburban,Snacks,401,1.75,False
+2023-10-16,Suburban,Snacks,541,1.71,True
+2023-10-23,Suburban,Snacks,427,1.76,False
+2023-10-30,Suburban,Snacks,428,1.78,False
+2023-11-06,Suburban,Snacks,506,1.76,True
+2023-11-13,Suburban,Snacks,464,1.78,False
+2023-11-20,Suburban,Snacks,481,1.75,False
+2023-11-27,Suburban,Snacks,474,1.8,False
+2023-12-04,Suburban,Snacks,535,1.77,False
+2023-12-11,Suburban,Snacks,495,1.7,False
+2023-12-18,Suburban,Snacks,551,1.72,False
+2023-12-25,Suburban,Snacks,555,1.77,False
+2024-01-01,Suburban,Snacks,626,1.8,False
+2024-01-08,Suburban,Snacks,745,1.76,True
+2024-01-15,Suburban,Snacks,621,1.73,False
+2024-01-22,Suburban,Snacks,596,1.73,False
+2024-01-29,Suburban,Snacks,660,1.72,False
+2024-02-05,Suburban,Snacks,621,1.73,False
+2022-01-03,Suburban,Prepared Foods,356,5.59,False
+2022-01-10,Suburban,Prepared Foods,379,5.5,False
+2022-01-17,Suburban,Prepared Foods,358,5.65,False
+2022-01-24,Suburban,Prepared Foods,426,5.41,False
+2022-01-31,Suburban,Prepared Foods,374,5.5,False
+2022-02-07,Suburban,Prepared Foods,419,5.49,False
+2022-02-14,Suburban,Prepared Foods,435,5.48,False
+2022-02-21,Suburban,Prepared Foods,430,5.59,False
+2022-02-28,Suburban,Prepared Foods,411,5.52,False
+2022-03-07,Suburban,Prepared Foods,422,5.36,False
+2022-03-14,Suburban,Prepared Foods,437,5.43,False
+2022-03-21,Suburban,Prepared Foods,431,5.37,False
+2022-03-28,Suburban,Prepared Foods,413,5.6,False
+2022-04-04,Suburban,Prepared Foods,449,5.58,False
+2022-04-11,Suburban,Prepared Foods,421,5.5,False
+2022-04-18,Suburban,Prepared Foods,495,5.44,True
+2022-04-25,Suburban,Prepared Foods,418,5.54,False
+2022-05-02,Suburban,Prepared Foods,409,5.54,False
+2022-05-09,Suburban,Prepared Foods,567,5.58,True
+2022-05-16,Suburban,Prepared Foods,408,5.61,False
+2022-05-23,Suburban,Prepared Foods,431,5.43,False
+2022-05-30,Suburban,Prepared Foods,405,5.56,False
+2022-06-06,Suburban,Prepared Foods,414,5.6,False
+2022-06-13,Suburban,Prepared Foods,415,5.34,False
+2022-06-20,Suburban,Prepared Foods,424,5.59,False
+2022-06-27,Suburban,Prepared Foods,390,5.57,False
+2022-07-04,Suburban,Prepared Foods,355,5.54,False
+2022-07-11,Suburban,Prepared Foods,383,5.38,False
+2022-07-18,Suburban,Prepared Foods,325,5.65,False
+2022-07-25,Suburban,Prepared Foods,391,5.44,True
+2022-08-01,Suburban,Prepared Foods,420,5.47,True
+2022-08-08,Suburban,Prepared Foods,334,5.62,False
+2022-08-15,Suburban,Prepared Foods,280,5.38,False
+2022-08-22,Suburban,Prepared Foods,282,5.55,False
+2022-08-29,Suburban,Prepared Foods,272,5.39,False
+2022-09-05,Suburban,Prepared Foods,265,5.45,False
+2022-09-12,Suburban,Prepared Foods,275,5.55,False
+2022-09-19,Suburban,Prepared Foods,265,5.4,False
+2022-09-26,Suburban,Prepared Foods,260,5.41,False
+2022-10-03,Suburban,Prepared Foods,249,5.43,False
+2022-10-10,Suburban,Prepared Foods,267,5.44,False
+2022-10-17,Suburban,Prepared Foods,280,5.6,False
+2022-10-24,Suburban,Prepared Foods,251,5.56,False
+2022-10-31,Suburban,Prepared Foods,295,5.61,False
+2022-11-07,Suburban,Prepared Foods,296,5.43,False
+2022-11-14,Suburban,Prepared Foods,303,5.45,False
+2022-11-21,Suburban,Prepared Foods,293,5.49,False
+2022-11-28,Suburban,Prepared Foods,319,5.64,False
+2022-12-05,Suburban,Prepared Foods,311,5.54,False
+2022-12-12,Suburban,Prepared Foods,330,5.56,False
+2022-12-19,Suburban,Prepared Foods,365,5.35,False
+2022-12-26,Suburban,Prepared Foods,383,5.37,False
+2023-01-02,Suburban,Prepared Foods,352,5.52,False
+2023-01-09,Suburban,Prepared Foods,388,5.64,False
+2023-01-16,Suburban,Prepared Foods,403,5.4,False
+2023-01-23,Suburban,Prepared Foods,401,5.55,False
+2023-01-30,Suburban,Prepared Foods,392,5.52,False
+2023-02-06,Suburban,Prepared Foods,441,5.64,False
+2023-02-13,Suburban,Prepared Foods,407,5.63,False
+2023-02-20,Suburban,Prepared Foods,577,5.66,True
+2023-02-27,Suburban,Prepared Foods,434,5.64,False
+2023-03-06,Suburban,Prepared Foods,465,5.62,False
+2023-03-13,Suburban,Prepared Foods,551,5.37,True
+2023-03-20,Suburban,Prepared Foods,422,5.66,False
+2023-03-27,Suburban,Prepared Foods,437,5.64,False
+2023-04-03,Suburban,Prepared Foods,435,5.4,False
+2023-04-10,Suburban,Prepared Foods,517,5.49,True
+2023-04-17,Suburban,Prepared Foods,416,5.58,False
+2023-04-24,Suburban,Prepared Foods,443,5.58,False
+2023-05-01,Suburban,Prepared Foods,579,5.63,True
+2023-05-08,Suburban,Prepared Foods,439,5.36,False
+2023-05-15,Suburban,Prepared Foods,414,5.38,False
+2023-05-22,Suburban,Prepared Foods,417,5.42,False
+2023-05-29,Suburban,Prepared Foods,448,5.65,False
+2023-06-05,Suburban,Prepared Foods,441,5.34,False
+2023-06-12,Suburban,Prepared Foods,432,5.36,False
+2023-06-19,Suburban,Prepared Foods,498,5.47,True
+2023-06-26,Suburban,Prepared Foods,427,5.57,False
+2023-07-03,Suburban,Prepared Foods,367,5.64,False
+2023-07-10,Suburban,Prepared Foods,385,5.41,False
+2023-07-17,Suburban,Prepared Foods,432,5.58,True
+2023-07-24,Suburban,Prepared Foods,348,5.52,False
+2023-07-31,Suburban,Prepared Foods,341,5.55,False
+2023-08-07,Suburban,Prepared Foods,313,5.58,False
+2023-08-14,Suburban,Prepared Foods,293,5.48,False
+2023-08-21,Suburban,Prepared Foods,282,5.52,False
+2023-08-28,Suburban,Prepared Foods,368,5.5,True
+2023-09-04,Suburban,Prepared Foods,267,5.44,False
+2023-09-11,Suburban,Prepared Foods,259,5.4,False
+2023-09-18,Suburban,Prepared Foods,254,5.5,False
+2023-09-25,Suburban,Prepared Foods,266,5.5,False
+2023-10-02,Suburban,Prepared Foods,249,5.49,False
+2023-10-09,Suburban,Prepared Foods,278,5.47,False
+2023-10-16,Suburban,Prepared Foods,283,5.53,False
+2023-10-23,Suburban,Prepared Foods,338,5.36,True
+2023-10-30,Suburban,Prepared Foods,305,5.36,False
+2023-11-06,Suburban,Prepared Foods,272,5.47,False
+2023-11-13,Suburban,Prepared Foods,318,5.66,False
+2023-11-20,Suburban,Prepared Foods,313,5.66,False
+2023-11-27,Suburban,Prepared Foods,349,5.63,False
+2023-12-04,Suburban,Prepared Foods,354,5.55,False
+2023-12-11,Suburban,Prepared Foods,366,5.45,False
+2023-12-18,Suburban,Prepared Foods,467,5.51,True
+2023-12-25,Suburban,Prepared Foods,368,5.34,False
+2024-01-01,Suburban,Prepared Foods,482,5.56,True
+2024-01-08,Suburban,Prepared Foods,412,5.61,False
+2024-01-15,Suburban,Prepared Foods,410,5.43,False
+2024-01-22,Suburban,Prepared Foods,445,5.37,False
+2024-01-29,Suburban,Prepared Foods,431,5.59,False
+2024-02-05,Suburban,Prepared Foods,408,5.4,False
+2022-01-03,University,Beverages,680,2.26,True
+2022-01-10,University,Beverages,562,2.28,False
+2022-01-17,University,Beverages,594,2.21,False
+2022-01-24,University,Beverages,589,2.25,False
+2022-01-31,University,Beverages,677,2.28,False
+2022-02-07,University,Beverages,664,2.27,False
+2022-02-14,University,Beverages,639,2.2,False
+2022-02-21,University,Beverages,635,2.22,False
+2022-02-28,University,Beverages,894,2.3,True
+2022-03-07,University,Beverages,683,2.24,False
+2022-03-14,University,Beverages,721,2.31,False
+2022-03-21,University,Beverages,702,2.23,False
+2022-03-28,University,Beverages,634,2.23,False
+2022-04-04,University,Beverages,669,2.3,False
+2022-04-11,University,Beverages,695,2.29,False
+2022-04-18,University,Beverages,680,2.31,False
+2022-04-25,University,Beverages,634,2.22,False
+2022-05-02,University,Beverages,689,2.31,False
+2022-05-09,University,Beverages,629,2.28,False
+2022-05-16,University,Beverages,646,2.27,False
+2022-05-23,University,Beverages,707,2.21,False
+2022-05-30,University,Beverages,686,2.26,False
+2022-06-06,University,Beverages,693,2.23,False
+2022-06-13,University,Beverages,594,2.31,False
+2022-06-20,University,Beverages,593,2.32,False
+2022-06-27,University,Beverages,592,2.26,False
+2022-07-04,University,Beverages,640,2.26,False
+2022-07-11,University,Beverages,571,2.25,False
+2022-07-18,University,Beverages,541,2.25,False
+2022-07-25,University,Beverages,507,2.31,False
+2022-08-01,University,Beverages,550,2.31,False
+2022-08-08,University,Beverages,494,2.26,False
+2022-08-15,University,Beverages,455,2.22,False
+2022-08-22,University,Beverages,470,2.24,False
+2022-08-29,University,Beverages,546,2.23,True
+2022-09-05,University,Beverages,435,2.27,False
+2022-09-12,University,Beverages,408,2.29,False
+2022-09-19,University,Beverages,427,2.25,False
+2022-09-26,University,Beverages,540,2.21,True
+2022-10-03,University,Beverages,411,2.31,False
+2022-10-10,University,Beverages,423,2.19,False
+2022-10-17,University,Beverages,552,2.31,True
+2022-10-24,University,Beverages,445,2.24,False
+2022-10-31,University,Beverages,419,2.28,False
+2022-11-07,University,Beverages,566,2.23,True
+2022-11-14,University,Beverages,481,2.27,False
+2022-11-21,University,Beverages,486,2.18,False
+2022-11-28,University,Beverages,468,2.25,False
+2022-12-05,University,Beverages,569,2.18,False
+2022-12-12,University,Beverages,566,2.29,False
+2022-12-19,University,Beverages,536,2.2,False
+2022-12-26,University,Beverages,704,2.25,True
+2023-01-02,University,Beverages,590,2.24,False
+2023-01-09,University,Beverages,621,2.26,False
+2023-01-16,University,Beverages,618,2.27,False
+2023-01-23,University,Beverages,677,2.3,False
+2023-01-30,University,Beverages,628,2.23,False
+2023-02-06,University,Beverages,632,2.18,False
+2023-02-13,University,Beverages,859,2.24,True
+2023-02-20,University,Beverages,699,2.3,False
+2023-02-27,University,Beverages,873,2.19,True
+2023-03-06,University,Beverages,738,2.3,False
+2023-03-13,University,Beverages,647,2.19,False
+2023-03-20,University,Beverages,743,2.26,False
+2023-03-27,University,Beverages,934,2.22,True
+2023-04-03,University,Beverages,709,2.28,False
+2023-04-10,University,Beverages,689,2.19,False
+2023-04-17,University,Beverages,840,2.3,True
+2023-04-24,University,Beverages,746,2.23,False
+2023-05-01,University,Beverages,661,2.32,False
+2023-05-08,University,Beverages,700,2.31,False
+2023-05-15,University,Beverages,864,2.3,True
+2023-05-22,University,Beverages,724,2.31,False
+2023-05-29,University,Beverages,719,2.19,False
+2023-06-05,University,Beverages,735,2.25,False
+2023-06-12,University,Beverages,718,2.24,False
+2023-06-19,University,Beverages,674,2.19,False
+2023-06-26,University,Beverages,673,2.28,False
+2023-07-03,University,Beverages,738,2.28,True
+2023-07-10,University,Beverages,629,2.23,False
+2023-07-17,University,Beverages,673,2.22,True
+2023-07-24,University,Beverages,543,2.2,False
+2023-07-31,University,Beverages,538,2.26,False
+2023-08-07,University,Beverages,482,2.23,False
+2023-08-14,University,Beverages,637,2.23,True
+2023-08-21,University,Beverages,467,2.23,False
+2023-08-28,University,Beverages,621,2.3,True
+2023-09-04,University,Beverages,458,2.21,False
+2023-09-11,University,Beverages,417,2.22,False
+2023-09-18,University,Beverages,404,2.24,False
+2023-09-25,University,Beverages,428,2.19,False
+2023-10-02,University,Beverages,411,2.27,False
+2023-10-09,University,Beverages,409,2.2,False
+2023-10-16,University,Beverages,467,2.23,False
+2023-10-23,University,Beverages,466,2.23,False
+2023-10-30,University,Beverages,479,2.3,False
+2023-11-06,University,Beverages,443,2.23,False
+2023-11-13,University,Beverages,464,2.22,False
+2023-11-20,University,Beverages,545,2.22,False
+2023-11-27,University,Beverages,527,2.26,False
+2023-12-04,University,Beverages,539,2.29,False
+2023-12-11,University,Beverages,537,2.26,False
+2023-12-18,University,Beverages,599,2.27,False
+2023-12-25,University,Beverages,661,2.24,False
+2024-01-01,University,Beverages,631,2.22,False
+2024-01-08,University,Beverages,689,2.29,False
+2024-01-15,University,Beverages,672,2.27,False
+2024-01-22,University,Beverages,704,2.28,False
+2024-01-29,University,Beverages,651,2.32,False
+2024-02-05,University,Beverages,696,2.25,False
+2022-01-03,University,Snacks,693,1.75,False
+2022-01-10,University,Snacks,676,1.79,False
+2022-01-17,University,Snacks,725,1.71,False
+2022-01-24,University,Snacks,743,1.73,False
+2022-01-31,University,Snacks,683,1.8,False
+2022-02-07,University,Snacks,735,1.78,False
+2022-02-14,University,Snacks,746,1.7,False
+2022-02-21,University,Snacks,761,1.75,False
+2022-02-28,University,Snacks,772,1.74,False
+2022-03-07,University,Snacks,798,1.76,False
+2022-03-14,University,Snacks,747,1.7,False
+2022-03-21,University,Snacks,946,1.8,True
+2022-03-28,University,Snacks,1027,1.71,True
+2022-04-04,University,Snacks,762,1.72,False
+2022-04-11,University,Snacks,766,1.74,False
+2022-04-18,University,Snacks,747,1.73,False
+2022-04-25,University,Snacks,722,1.79,False
+2022-05-02,University,Snacks,792,1.71,False
+2022-05-09,University,Snacks,737,1.72,False
+2022-05-16,University,Snacks,968,1.8,True
+2022-05-23,University,Snacks,751,1.72,False
+2022-05-30,University,Snacks,748,1.7,False
+2022-06-06,University,Snacks,711,1.76,False
+2022-06-13,University,Snacks,760,1.72,False
+2022-06-20,University,Snacks,758,1.7,False
+2022-06-27,University,Snacks,934,1.72,True
+2022-07-04,University,Snacks,681,1.73,False
+2022-07-11,University,Snacks,668,1.76,False
+2022-07-18,University,Snacks,654,1.76,False
+2022-07-25,University,Snacks,653,1.76,False
+2022-08-01,University,Snacks,615,1.73,False
+2022-08-08,University,Snacks,535,1.71,False
+2022-08-15,University,Snacks,667,1.72,True
+2022-08-22,University,Snacks,532,1.74,False
+2022-08-29,University,Snacks,629,1.72,True
+2022-09-05,University,Snacks,513,1.77,False
+2022-09-12,University,Snacks,490,1.75,False
+2022-09-19,University,Snacks,578,1.74,True
+2022-09-26,University,Snacks,576,1.7,True
+2022-10-03,University,Snacks,617,1.8,True
+2022-10-10,University,Snacks,472,1.77,False
+2022-10-17,University,Snacks,504,1.75,False
+2022-10-24,University,Snacks,564,1.78,True
+2022-10-31,University,Snacks,483,1.75,False
+2022-11-07,University,Snacks,642,1.78,True
+2022-11-14,University,Snacks,540,1.71,False
+2022-11-21,University,Snacks,727,1.78,True
+2022-11-28,University,Snacks,610,1.7,False
+2022-12-05,University,Snacks,609,1.8,False
+2022-12-12,University,Snacks,828,1.78,True
+2022-12-19,University,Snacks,706,1.74,False
+2022-12-26,University,Snacks,712,1.74,False
+2023-01-02,University,Snacks,731,1.72,False
+2023-01-09,University,Snacks,731,1.73,False
+2023-01-16,University,Snacks,755,1.71,False
+2023-01-23,University,Snacks,899,1.72,True
+2023-01-30,University,Snacks,937,1.73,True
+2023-02-06,University,Snacks,756,1.77,False
+2023-02-13,University,Snacks,756,1.79,False
+2023-02-20,University,Snacks,814,1.71,False
+2023-02-27,University,Snacks,831,1.79,False
+2023-03-06,University,Snacks,843,1.71,False
+2023-03-13,University,Snacks,766,1.77,False
+2023-03-20,University,Snacks,832,1.77,False
+2023-03-27,University,Snacks,809,1.73,False
+2023-04-03,University,Snacks,793,1.76,False
+2023-04-10,University,Snacks,748,1.75,False
+2023-04-17,University,Snacks,857,1.74,False
+2023-04-24,University,Snacks,779,1.7,False
+2023-05-01,University,Snacks,831,1.77,False
+2023-05-08,University,Snacks,821,1.74,False
+2023-05-15,University,Snacks,1003,1.72,True
+2023-05-22,University,Snacks,757,1.73,False
+2023-05-29,University,Snacks,767,1.76,False
+2023-06-05,University,Snacks,776,1.73,False
+2023-06-12,University,Snacks,711,1.71,False
+2023-06-19,University,Snacks,747,1.71,False
+2023-06-26,University,Snacks,727,1.7,False
+2023-07-03,University,Snacks,680,1.77,False
+2023-07-10,University,Snacks,886,1.71,True
+2023-07-17,University,Snacks,644,1.77,False
+2023-07-24,University,Snacks,631,1.79,False
+2023-07-31,University,Snacks,762,1.73,True
+2023-08-07,University,Snacks,571,1.77,False
+2023-08-14,University,Snacks,527,1.75,False
+2023-08-21,University,Snacks,660,1.77,True
+2023-08-28,University,Snacks,688,1.78,True
+2023-09-04,University,Snacks,511,1.71,False
+2023-09-11,University,Snacks,620,1.77,True
+2023-09-18,University,Snacks,602,1.79,True
+2023-09-25,University,Snacks,640,1.78,True
+2023-10-02,University,Snacks,660,1.71,True
+2023-10-09,University,Snacks,453,1.77,False
+2023-10-16,University,Snacks,515,1.76,False
+2023-10-23,University,Snacks,625,1.77,True
+2023-10-30,University,Snacks,487,1.71,False
+2023-11-06,University,Snacks,545,1.74,False
+2023-11-13,University,Snacks,541,1.71,False
+2023-11-20,University,Snacks,541,1.76,False
+2023-11-27,University,Snacks,613,1.78,False
+2023-12-04,University,Snacks,663,1.77,False
+2023-12-11,University,Snacks,656,1.75,False
+2023-12-18,University,Snacks,657,1.7,False
+2023-12-25,University,Snacks,756,1.75,False
+2024-01-01,University,Snacks,910,1.76,True
+2024-01-08,University,Snacks,807,1.8,False
+2024-01-15,University,Snacks,723,1.79,False
+2024-01-22,University,Snacks,768,1.77,False
+2024-01-29,University,Snacks,856,1.78,False
+2024-02-05,University,Snacks,941,1.73,True
+2022-01-03,University,Prepared Foods,586,5.6,True
+2022-01-10,University,Prepared Foods,530,5.5,False
+2022-01-17,University,Prepared Foods,549,5.36,False
+2022-01-24,University,Prepared Foods,554,5.43,False
+2022-01-31,University,Prepared Foods,554,5.4,False
+2022-02-07,University,Prepared Foods,563,5.46,False
+2022-02-14,University,Prepared Foods,596,5.56,False
+2022-02-21,University,Prepared Foods,735,5.58,True
+2022-02-28,University,Prepared Foods,532,5.36,False
+2022-03-07,University,Prepared Foods,569,5.54,False
+2022-03-14,University,Prepared Foods,597,5.58,False
+2022-03-21,University,Prepared Foods,743,5.57,True
+2022-03-28,University,Prepared Foods,772,5.51,True
+2022-04-04,University,Prepared Foods,596,5.39,False
+2022-04-11,University,Prepared Foods,753,5.42,True
+2022-04-18,University,Prepared Foods,602,5.34,False
+2022-04-25,University,Prepared Foods,556,5.36,False
+2022-05-02,University,Prepared Foods,584,5.36,False
+2022-05-09,University,Prepared Foods,564,5.5,False
+2022-05-16,University,Prepared Foods,563,5.42,False
+2022-05-23,University,Prepared Foods,723,5.57,True
+2022-05-30,University,Prepared Foods,568,5.35,False
+2022-06-06,University,Prepared Foods,538,5.49,False
+2022-06-13,University,Prepared Foods,521,5.64,False
+2022-06-20,University,Prepared Foods,546,5.64,False
+2022-06-27,University,Prepared Foods,522,5.44,False
+2022-07-04,University,Prepared Foods,533,5.42,False
+2022-07-11,University,Prepared Foods,611,5.5,True
+2022-07-18,University,Prepared Foods,457,5.6,False
+2022-07-25,University,Prepared Foods,498,5.36,False
+2022-08-01,University,Prepared Foods,431,5.61,False
+2022-08-08,University,Prepared Foods,433,5.34,False
+2022-08-15,University,Prepared Foods,417,5.44,False
+2022-08-22,University,Prepared Foods,396,5.53,False
+2022-08-29,University,Prepared Foods,401,5.4,False
+2022-09-05,University,Prepared Foods,389,5.42,False
+2022-09-12,University,Prepared Foods,449,5.41,True
+2022-09-19,University,Prepared Foods,377,5.62,False
+2022-09-26,University,Prepared Foods,326,5.55,False
+2022-10-03,University,Prepared Foods,365,5.37,False
+2022-10-10,University,Prepared Foods,339,5.5,False
+2022-10-17,University,Prepared Foods,484,5.57,True
+2022-10-24,University,Prepared Foods,488,5.63,True
+2022-10-31,University,Prepared Foods,388,5.46,False
+2022-11-07,University,Prepared Foods,362,5.37,False
+2022-11-14,University,Prepared Foods,528,5.36,True
+2022-11-21,University,Prepared Foods,413,5.65,False
+2022-11-28,University,Prepared Foods,418,5.44,False
+2022-12-05,University,Prepared Foods,468,5.58,False
+2022-12-12,University,Prepared Foods,454,5.36,False
+2022-12-19,University,Prepared Foods,512,5.53,False
+2022-12-26,University,Prepared Foods,601,5.49,True
+2023-01-02,University,Prepared Foods,528,5.65,False
+2023-01-09,University,Prepared Foods,524,5.42,False
+2023-01-16,University,Prepared Foods,655,5.56,True
+2023-01-23,University,Prepared Foods,584,5.35,False
+2023-01-30,University,Prepared Foods,560,5.37,False
+2023-02-06,University,Prepared Foods,570,5.5,False
+2023-02-13,University,Prepared Foods,566,5.66,False
+2023-02-20,University,Prepared Foods,730,5.48,True
+2023-02-27,University,Prepared Foods,572,5.49,False
+2023-03-06,University,Prepared Foods,563,5.34,False
+2023-03-13,University,Prepared Foods,645,5.38,False
+2023-03-20,University,Prepared Foods,587,5.54,False
+2023-03-27,University,Prepared Foods,607,5.42,False
+2023-04-03,University,Prepared Foods,554,5.36,False
+2023-04-10,University,Prepared Foods,595,5.38,False
+2023-04-17,University,Prepared Foods,632,5.44,False
+2023-04-24,University,Prepared Foods,747,5.39,True
+2023-05-01,University,Prepared Foods,632,5.47,False
+2023-05-08,University,Prepared Foods,772,5.39,True
+2023-05-15,University,Prepared Foods,569,5.43,False
+2023-05-22,University,Prepared Foods,551,5.54,False
+2023-05-29,University,Prepared Foods,571,5.47,False
+2023-06-05,University,Prepared Foods,543,5.43,False
+2023-06-12,University,Prepared Foods,684,5.63,True
+2023-06-19,University,Prepared Foods,575,5.6,False
+2023-06-26,University,Prepared Foods,594,5.59,False
+2023-07-03,University,Prepared Foods,539,5.49,False
+2023-07-10,University,Prepared Foods,519,5.46,False
+2023-07-17,University,Prepared Foods,609,5.41,True
+2023-07-24,University,Prepared Foods,505,5.35,False
+2023-07-31,University,Prepared Foods,467,5.59,False
+2023-08-07,University,Prepared Foods,481,5.37,False
+2023-08-14,University,Prepared Foods,414,5.6,False
+2023-08-21,University,Prepared Foods,385,5.66,False
+2023-08-28,University,Prepared Foods,422,5.6,False
+2023-09-04,University,Prepared Foods,409,5.61,False
+2023-09-11,University,Prepared Foods,481,5.6,True
+2023-09-18,University,Prepared Foods,397,5.34,False
+2023-09-25,University,Prepared Foods,394,5.52,False
+2023-10-02,University,Prepared Foods,349,5.66,False
+2023-10-09,University,Prepared Foods,368,5.44,False
+2023-10-16,University,Prepared Foods,349,5.41,False
+2023-10-23,University,Prepared Foods,382,5.34,False
+2023-10-30,University,Prepared Foods,372,5.38,False
+2023-11-06,University,Prepared Foods,430,5.61,False
+2023-11-13,University,Prepared Foods,386,5.53,False
+2023-11-20,University,Prepared Foods,453,5.61,False
+2023-11-27,University,Prepared Foods,486,5.46,False
+2023-12-04,University,Prepared Foods,463,5.37,False
+2023-12-11,University,Prepared Foods,462,5.39,False
+2023-12-18,University,Prepared Foods,534,5.65,False
+2023-12-25,University,Prepared Foods,501,5.65,False
+2024-01-01,University,Prepared Foods,583,5.59,False
+2024-01-08,University,Prepared Foods,570,5.39,False
+2024-01-15,University,Prepared Foods,594,5.38,False
+2024-01-22,University,Prepared Foods,631,5.65,False
+2024-01-29,University,Prepared Foods,646,5.65,False
+2024-02-05,University,Prepared Foods,771,5.64,True
